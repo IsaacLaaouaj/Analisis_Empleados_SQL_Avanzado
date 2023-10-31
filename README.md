@@ -6,7 +6,7 @@ Este notebook contiene un detallado análisis ETL y exploratorio de la informaci
 
 ## Contenido
 
-1. **ETL (Extract, Transform, Load)**
+1. **Limpieza**
    - Extracción de datos de la fuente.
    - Limpieza y transformación de datos.
    - Carga en la estructura adecuada para el análisis.
@@ -48,10 +48,4 @@ Para ejecutar este notebook, asegúrate de tener instaladas las siguientes bibli
 3. Abre el notebook en tu entorno Jupyter favorito.
 4. Ejecuta las celdas en orden para obtener los análisis y visualizaciones.
 
-## Contribuciones
-
-Este análisis fue realizado por [Tu Nombre]. Para cualquier corrección o sugerencia, por favor, crea una 'issue' o 'pull request'.
-
----
-
-© 2023 [Tu Nombre]. Todos los derechos reservados.
+Para cualquier corrección o sugerencia, por favor, crea una 'issue' o 'pull request'.
